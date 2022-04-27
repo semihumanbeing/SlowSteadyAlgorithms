@@ -12,7 +12,11 @@
 
 일주일에 1번 자기가 푼 문제 1개를 어떻게 풀었는지 과정을 설명한다
 
-<h2> Stack </h2>
+
+<details>
+<summary><h2> Stack </h2></summary>
+<div markdown="1">
+
 문제: 
 스택: https://www.acmicpc.net/problem/10828
 
@@ -22,3 +26,7 @@
 
 <h3>스터디 정리</h3>
 https://semihumanbeing.notion.site/Stack-3ab52fbbf5b840b880af48afb139b01e
+
+</div>
+</details>
+
