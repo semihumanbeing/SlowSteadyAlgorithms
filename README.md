@@ -1,4 +1,4 @@
-<h1> 느릿느릿 스터디 </h1>
+# 느릿느릿 스터디 
 
 강의를 보고 문제를 이해할때까지 풀어보는 형식의 스터디
 
@@ -17,15 +17,13 @@
 <summary><h2> Stack </h2></summary>
 <div markdown="1">
 
-문제: 
-스택: https://www.acmicpc.net/problem/10828
+[스택 문제](https://www.acmicpc.net/problem/10828)
 
-문제집: https://www.acmicpc.net/step/11 
+[문제집](https://www.acmicpc.net/step/11)
 
-강의: https://www.youtube.com/watch?v=whVUYv0Leg0&list=PLjSkJdbr_gFZL2BNnGLvTgMYXptKGIyum&index=1&t=5s&ab_channel=%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD
+[강의](https://youtu.be/whVUYv0Leg0)
 
-<h3>스터디 정리</h3>
-https://semihumanbeing.notion.site/Stack-3ab52fbbf5b840b880af48afb139b01e
+[스터디 내용 요약](https://semihumanbeing.notion.site/Stack-3ab52fbbf5b840b880af48afb139b01e)
 
 </div>
 </details>
