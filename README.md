@@ -11,7 +11,7 @@
 
 <details>
 <summary><h2> Stack </h2></summary>
-<div markdown="1">
+<div markdown="0">
 
 [Stack 문제집](https://www.acmicpc.net/step/11)
 
@@ -24,7 +24,7 @@
 
 <details>
 <summary><h2> Queue </h2></summary>
-<div markdown="1">
+<div markdown="0">
 
 [Queue 클래스 사용법 문서](https://coding-factory.tistory.com/602)
   
