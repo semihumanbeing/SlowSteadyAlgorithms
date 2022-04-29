@@ -36,3 +36,24 @@
 </div>
 </details>
 
+</div>
+</details>
+<details>
+<summary><h2> Recursion </h2></summary>
+<div markdown="0">
+
+[[무료] 영리한 프로그래밍을 위한 알고리즘 강좌 - 인프런 | 강의](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C/dashboard)
+
+순환의 기본 개념을 파악하고 문제를 풀어본다.
+
+문제: 
+
+[팩토리얼](https://www.acmicpc.net/problem/10872)
+
+[피보나치 수열](https://www.acmicpc.net/problem/10870) 
+  
+[문제집](https://www.acmicpc.net/step/19)
+
+</div>
+</details>
+
