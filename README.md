@@ -31,6 +31,7 @@
 
 [Queue 문제집](https://www.acmicpc.net/step/12)
 
+[20220427 스터디 내용 요약](https://www.notion.so/semihumanbeing/Queue-190d686704a943078302b46e37c4892a)
 
 </div>
 </details>
