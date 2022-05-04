@@ -38,6 +38,11 @@ public class fibo {
 		if(n == 1) {
 			return 1;
 		}
+		//이미 계산된 값이 있으면 그값을 반환
+		if(fibo_s[n] !=0) {
+			return fibo_s[n];
+		}
+		
 		//재귀적으로 호출될때마다 배열인덱스에 값이 저장됨
 		fibo_s[n] = fibo(n-1) + fibo(n-2);
 		
