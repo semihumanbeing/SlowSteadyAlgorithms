@@ -53,6 +53,23 @@
 [피보나치 수열](https://www.acmicpc.net/problem/10870) 
   
 [문제집](https://www.acmicpc.net/step/19)
+  
+[20220504 스터디 내용 요약](https://discordapp.com/channels/959798526781579324/969105635255939112/971716481270317128)
+
+</div>
+</details>
+
+<details>
+<summary><h2> Sort </h2></summary>
+<div markdown="0">
+
+[문제집](https://www.acmicpc.net/step/9)
+
+or 백준에서 정렬이름을 검색하면 같은 유형의 문제가 나옵니다
+
+[강의](https://www.youtube.com/playlist?list=PLjSkJdbr_gFZMNhIMl2AJ9n5c2hNK-qJk)
+ 
+20220511 선택정렬,버블정렬 
 
 </div>
 </details>
