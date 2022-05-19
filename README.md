@@ -1,4 +1,4 @@
-#느릿느릿 스터디 <br> 
+<h1>느릿느릿 스터디</h1> <br> 
 [메인링크](https://semihumanbeing.notion.site/8a71829f1c434baea75a2b9696f63941)
 
 강의를 보고 문제를 이해할때까지 풀어보는 형식의 스터디
