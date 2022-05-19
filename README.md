@@ -1,4 +1,5 @@
-# 느릿느릿 스터디 
+#느릿느릿 스터디 <br> 
+[메인링크](https://semihumanbeing.notion.site/8a71829f1c434baea75a2b9696f63941)
 
 강의를 보고 문제를 이해할때까지 풀어보는 형식의 스터디
 
@@ -69,8 +70,10 @@ or 백준에서 정렬이름을 검색하면 같은 유형의 문제가 나옵�
 
 [강의](https://www.youtube.com/playlist?list=PLjSkJdbr_gFZMNhIMl2AJ9n5c2hNK-qJk)
  
-20220511 선택정렬,버블정렬 
 
+[20220511 SelectionSort, BubbleSort 스터디 내용 요약](https://www.notion.so/Sort-1-SelectionSort-BubbleSort-505ef19860cd4a889c8ea31d0147edfc) 
+
+[20220518 QuickSort, MergeSort 스터디 내용 요약](https://www.notion.so/Sort-2-QuickSort-MergeSort-7ec6107be09f44b8961acdd948bc59b7)
 </div>
 </details>
 
