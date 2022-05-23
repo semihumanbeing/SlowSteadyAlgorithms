@@ -1,4 +1,5 @@
-# 느릿느릿 스터디 
+<h1>느릿느릿 스터디</h1> <br> 
+[메인링크](https://semihumanbeing.notion.site/8a71829f1c434baea75a2b9696f63941)
 
 강의를 보고 문제를 이해할때까지 풀어보는 형식의 스터디
 
@@ -69,8 +70,39 @@ or 백준에서 정렬이름을 검색하면 같은 유형의 문제가 나옵�
 
 [강의](https://www.youtube.com/playlist?list=PLjSkJdbr_gFZMNhIMl2AJ9n5c2hNK-qJk)
  
-20220511 선택정렬,버블정렬 
 
+[20220511 SelectionSort, BubbleSort 스터디 내용 요약](https://www.notion.so/Sort-1-SelectionSort-BubbleSort-505ef19860cd4a889c8ea31d0147edfc) 
+
+[20220518 QuickSort, MergeSort 스터디 내용 요약](https://www.notion.so/Sort-2-QuickSort-MergeSort-7ec6107be09f44b8961acdd948bc59b7)
+  
+</div>
+</details>
+<details>
+<summary><h2> Brute Force </h2></summary>
+<div markdown="0">
+
+  
+문제풀어보기
+기본
+
+https://www.acmicpc.net/problem/10819
+
+응용
+
+https://www.acmicpc.net/problem/2798
+
+https://www.acmicpc.net/problem/14889
+
+https://www.acmicpc.net/problem/2661
+
+https://www.acmicpc.net/problem/14888
+
+심화
+
+https://www.acmicpc.net/problem/15684
+  
+https://www.acmicpc.net/problem/15686
+  
 </div>
 </details>
 
