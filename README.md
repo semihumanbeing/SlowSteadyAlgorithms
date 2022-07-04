@@ -78,9 +78,8 @@ or 백준에서 정렬이름을 검색하면 같은 유형의 문제가 나옵�
 <summary><h2> Brute Force </h2></summary>
 <div markdown="0">
 
-찾을 수 있는 모든 방법을 사용해서 문제를 풀어보기...
-  
-문제풀어보기
+찾을 수 있는 모든 방법을 사용해서 문제를 풀어보기...<br>
+ 
 https://www.acmicpc.net/problem/2798<br>
 https://www.acmicpc.net/problem/2231<br>
 https://www.acmicpc.net/problem/7568<br>
@@ -95,7 +94,7 @@ https://www.acmicpc.net/problem/1436<br>
 <div markdown="0">
 
 
-[스터디 내용 요약](https://semihumanbeing.notion.site/Binary-Search-a7b0b36efc8e40bca8621dcc4ef6815c)<br>
+[20220526 스터디 내용 요약](https://semihumanbeing.notion.site/Binary-Search-a7b0b36efc8e40bca8621dcc4ef6815c)<br>
 https://www.acmicpc.net/problem/1920<br>
 https://www.acmicpc.net/problem/1654<br>
 https://www.acmicpc.net/problem/10815<br>
@@ -109,7 +108,7 @@ https://www.acmicpc.net/problem/2110<br>
 <div markdown="0">
 
 
-[스터디 내용 요약](https://semihumanbeing.notion.site/BFS-7975e3bb9b794a6eae5e48b78c15e55d)<br>
+[20220602 스터디 내용 요약](https://semihumanbeing.notion.site/BFS-7975e3bb9b794a6eae5e48b78c15e55d)<br>
 https://www.acmicpc.net/problem/24444<br>
 https://www.acmicpc.net/problem/2606<br>
 https://www.acmicpc.net/problem/2667<br>
@@ -123,7 +122,7 @@ https://www.acmicpc.net/problem/2178<br>
 <div markdown="0">
 
 
-[스터디 내용 요약](https://semihumanbeing.notion.site/BFS-7975e3bb9b794a6eae5e48b78c15e55d)<br>
+[20220608 스터디 내용 요약](https://semihumanbeing.notion.site/BFS-7975e3bb9b794a6eae5e48b78c15e55d)<br>
 [https://www.acmicpc.net/problem/1388](https://www.acmicpc.net/problem/1388)<br>
 [https://www.acmicpc.net/problem/1012](https://www.acmicpc.net/problem/1012)<br>
 [https://www.acmicpc.net/problem/24479](https://www.acmicpc.net/problem/24479)<br>
@@ -135,7 +134,7 @@ https://www.acmicpc.net/problem/2178<br>
 <summary><h2> Backtracking </h2></summary>
 <div markdown="0">
 
-[스터디 내용 요약](https://semihumanbeing.notion.site/e05b525bd80148a6a5f1b4424a2b70fe)<br>
+[20220622 스터디 내용 요약](https://semihumanbeing.notion.site/e05b525bd80148a6a5f1b4424a2b70fe)<br>
 https://www.acmicpc.net/problem/15649<br>
 https://www.acmicpc.net/problem/15650<br>
 https://www.acmicpc.net/problem/15651<br>
